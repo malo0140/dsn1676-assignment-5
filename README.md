@@ -1,1 +1,2 @@
-# dsn1676-assignment-5
+# dsn1676-week-1
+Review of github, type and stuff
