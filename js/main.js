@@ -17,3 +17,9 @@ $form.on('submit', function(eventobject) {
     $input.val('');
     
 });
+
+//$theH1.on('click' function () {
+
+  //  $theH1.css('stroke')
+    
+//});

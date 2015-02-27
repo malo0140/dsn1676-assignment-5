@@ -18,5 +18,32 @@ html {
 }
 
 .to-do {
+    height: 500px;
+    position: absolute;
+    left: 100px;
     
+}
+
+.lable{
+ 
+    font-size: 25px;
+    top: 10px;
+}
+
+.input {
+
+    height: 30px;
+    width: 200px;
+    border-radius: 5px;
+    color: gray;
+}
+
+.button {
+
+    width: 75px;
+    height: 35px;
+    background-color: skyblue;
+    border-radius: 5px;
+    border: solid 1px;
+    cursor: pointer; 
 }
