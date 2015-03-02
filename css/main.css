@@ -37,23 +37,43 @@ html {
     color: gray;
 }
 
+.h1 {
+ color: white;   
+}
+
 .button {
 
     width: 75px;
     height: 35px;
-    background-color: skyblue;
+    background-color: white;
     border-radius: 5px;
     border: solid 1px;
     cursor: pointer; 
 }
 
+
 li {
- margin: 1em;   
+     margin: 2em;  
+    padding: 1em;
+    text-align: left;
+}
+
+.ol {
+ 
+    background-color: white;
+
 }
 
 done {
     color: lightgray;
-    cursor: pointer;
-    
+    cursor: pointer;  
+}
+
+.all {
+    text-align: center;
+    background-color: #996699; 
+    margin: 3em;
+    padding: 1em;
+    width: 50%;
     
 }

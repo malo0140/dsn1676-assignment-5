@@ -19,3 +19,8 @@ $form.on('submit', function(eventobject) {
     $input.val('');    
 });
 
+$input.val('');
+
+$ol.on('click', 'li', function () {
+    $('this').toggleClass('done');
+});
