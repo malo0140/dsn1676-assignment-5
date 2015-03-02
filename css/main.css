@@ -20,7 +20,6 @@ html {
 .to-do {
     height: 500px;
     position: absolute;
-    left: 100px;
     
 }
 
@@ -46,4 +45,15 @@ html {
     border-radius: 5px;
     border: solid 1px;
     cursor: pointer; 
+}
+
+li {
+ margin: 1em;   
+}
+
+done {
+    color: lightgray;
+    cursor: pointer;
+    
+    
 }
