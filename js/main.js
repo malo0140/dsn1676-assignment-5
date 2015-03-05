@@ -21,6 +21,6 @@ $form.on('submit', function(eventobject) {
 
 $input.val('');
 
-$ol.on('click', 'li', function () {
-    $('this').toggleClass('done');
+$done.on('click', 'li', function () {
+    $('this').addClass('grey-out');
 });

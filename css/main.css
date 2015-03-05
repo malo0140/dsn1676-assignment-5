@@ -64,7 +64,7 @@ li {
 
 }
 
-done {
+grey-out {
     color: lightgray;
     cursor: pointer;  
 }
